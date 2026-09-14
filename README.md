@@ -21,8 +21,8 @@
 | **AES-GCM-256 in C**           | Hand-rolled crypto using OpenSSL's EVP API, segfaults and all                    |
 | **ESP32/Pi Security Research** | AES-128 + ECIES pipeline feeding an XGBoost cardiovascular prediction model      |
 | **Linux Keylogger (C)**        | Low-level `evdev` input capture, atomic file handling, permission-locked logging |
-| **LSB PNG Steganography**      | Worked on steganography on PNG files using LSB bit plane to hide data            |
-| **Crackme + RE practice**      | XOR/rotation/addition obfuscated binary, solved via Ghidra/objdump               |
+| **LSB PNG Steganography**      | Worked on steganography on PNG files using LSB bit plane manipulation to hide data            |
+| **RE practice**                | Spend time ripping open binaries for fun.                |
 
 ---
 
