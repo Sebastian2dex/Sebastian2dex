@@ -10,6 +10,7 @@
 - 🖥️ Into everything **low-level**: kernels, hardware, embedded systems
 - 🎓 Headed into a **cybersecurity / SOC track** role and a **backend engineering** role
 - 😎 Vibe: calm under pressure, allergic to unnecessary noise — think _Gilfoyle energy_
+- 🧩 Built a digital forensics room on TryHackMe: [**Exifential**](https://tryhackme.com/jr/exifential) - maybe give a try?
 
 ---
 
