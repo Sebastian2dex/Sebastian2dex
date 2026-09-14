@@ -1,5 +1,9 @@
 <h1 align="center">Hey, I'm Seb 👋</h1> <p align="center"> <em>Engineer who'd rather be reading a stack trace than a textbook.</em> </p> <p align="center"> <img src="https://img.shields.io/badge/Linux-full--time-000000?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Arch-btw-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /> <img src="https://img.shields.io/badge/Purple%20Team-Red%20%2B%20Blue-6a0dad?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/DFIR-Forensics-1e3a5f?style=for-the-badge&logo=magnet&logoColor=white" /> <img src="https://img.shields.io/badge/Low--level-C%20%2F%20Rust-orange?style=for-the-badge&logo=c&logoColor=white" /> </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A0DAD&center=true&vCenter=true&width=750&lines=Break+stuff%2C+defend+stuff%2C+forensicate+the+rest;Purple+team+by+day%2C+DFIR+always;C+%2F+Rust+%2F+Python%2C+low-level+everything;Arch%2C+btw." />
+</p>
+
 ---
 
 ### 🧠 About me
